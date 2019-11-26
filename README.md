@@ -2,6 +2,5 @@
 
 A short description of your theme.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
-# fortran-coverpage-syntax
-# fortran-coverpage-syntax
+![Coverpage for IBM704 Fortran user manual](https://upload.wikimedia.org/wikipedia/commons/0/07/Fortran_acs_cover.jpeg)
+
